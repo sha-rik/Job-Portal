@@ -2,7 +2,6 @@ import Header from "./components/Header/Header"
 import Navbar from "./components/Navbar/Navbar"
 import SearchBar from "./components/SearchBar/SearchBar"
 import JobCard from "./components/JobCard/JobCard"
-import jobData from "./JobDummyData"
 import {useEffect, useState} from 'react'
 import { collection, query, where, getDocs,orderBy } from "firebase/firestore";
 import { db } from "./firebase.config";

@@ -1,0 +1,47 @@
+export default [
+    {
+        id:1,
+        postedon : '2023-10-21',
+        title: 'Ios Developer',
+        company: 'Apple',
+        type: 'Full Time',
+        experience: '2-3 years',
+        location: ['Bangalore'],
+        skills: ['Swift', 'Objective C', 'Xcode'],
+        link: 'https://www.apple.com/',
+
+    },
+    {
+        id:2,
+        postedon : '2024-01-04',
+        title: 'Intern',
+        company: 'Salesforce',
+        type: 'Six Months',
+        experience: '0-1 years',
+        location: ['Hyderabad','Bangalore'],
+        skills: ['See on website'],
+        link: 'https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Intern_JR234461',
+    },
+    {
+        id:3,
+        postedon : '2023-12-29',
+        title: 'Stem Intern',
+        company: 'Google',
+        type: 'Six Months',
+        experience: '0-1 years',
+        location: ['Bangalore','Hyderabad'],
+        skills: ['C++', 'Java', 'Python'],
+        link: 'https://www.google.com/about/careers/applications/jobs/results/99460232238768838-software-student-training-in-engineering-program-step-intern-2024',
+    },
+    {
+        id:4,
+        postedon : '2023-12-30',
+        title: 'Software Intern',
+        company: 'Goldman Sachs',
+        type: 'Six Months',
+        experience: '0-1 years',
+        location: ['see on website'],
+        skills: ['see on website'],
+        link: 'https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/2-Summer-Analyst-Summer-Associate-Internship-programs/en-GB',
+    }
+]
